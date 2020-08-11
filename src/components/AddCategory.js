@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-// import  {GifExpertApp} from '../GifExpertApp'
+import  {GifExpertApp} from '../GifExpertApp'
 import PropTypes from 'prop-types'
 
 export const AddCategory = ({setCategories}) => {
